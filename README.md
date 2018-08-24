@@ -2,7 +2,12 @@
 
 Location Manager is a wrapper to use CLLocationManager (iOS Framework to use GPS) in a simpler way and getting
 rid of all those delegates and error handling. Location Manager gives to both the functionalities for single time location getting as well as live tracking.
-
+<h5> Features: </h5>
+<ul>
+        <li>Easy to use.</li>
+        <li>Provide prior error handling.</li>
+        <li>Adjust the location accuracy according to device battery percentage.</li>
+        </ul>
 
 <h2>How to use:</h2>
 <li><h3>1.For getting location for a single time: </h3>
