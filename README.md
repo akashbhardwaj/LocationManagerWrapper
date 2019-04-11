@@ -1,4 +1,5 @@
-# Location Manager Wrapper
+
+# Location Manager Wrapper :)
 
 Location Manager is a wrapper to use CLLocationManager (iOS Framework to use GPS) in a simpler way and getting
 rid of all those delegates and error handling. Location Manager gives to both the functionalities for single time location getting as well as live tracking.
